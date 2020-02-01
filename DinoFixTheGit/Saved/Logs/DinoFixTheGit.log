@@ -668,3 +668,32 @@ Script Stack (0 frames):
 [2020.02.01-16.19.33:984][ 84]SourceControl:  create mode 100644 DinoFixTheGit/Content/TestLevel.umap
 [2020.02.01-16.19.33:984][ 84]SourceControl:  create mode 100644 DinoFixTheGit/DinoFixTheGit.uproject
 [2020.02.01-16.19.33:988][ 84]SourceControl: Commited [develop f81c856] Novo mapa.
+[2020.02.01-16.22.47:193][976]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TestLevel.TestLevel
+[2020.02.01-16.22.47:218][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.02.01-16.22.47:219][976]Cmd: MAP LOAD FILE="../../../../../../Users/administrador/GlobalGameJam/DinoFixTheGit/Content/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.01-16.22.47:219][976]LightingResults: New page: Lighting Build
+[2020.02.01-16.22.47:219][976]LoadErrors: New page: Loading map: TestLevel.umap
+[2020.02.01-16.22.47:221][976]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-16.22.47:221][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-16.22.47:221][976]MapCheck: New page: Map Check
+[2020.02.01-16.22.47:221][976]LightingResults: New page: Lighting Build
+[2020.02.01-16.22.47:246][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.01-16.22.47:295][976]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-16.22.47:295][976]LogAIModule: Creating AISystem for world TestLevel
+[2020.02.01-16.22.47:320][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.02.01-16.22.47:337][976]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-16.22.47:337][976]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2020.02.01-16.22.47:337][976]LogFileHelpers: Loading map 'TestLevel' took 0.119
+[2020.02.01-16.22.58:178][201]LogEditorViewport: Clicking Background
+[2020.02.01-16.22.59:555][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel" FILE="../../../../../../Users/administrador/GlobalGameJam/DinoFixTheGit/Content/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.01-16.22.59:582][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.02.01-16.22.59:591][335]LogSavePackage: Moving '../../../../../../Users/administrador/GlobalGameJam/DinoFixTheGit/Saved/TestLevel627B1A9F455A721BC796D3825F9C3500.tmp' to '../../../../../../Users/administrador/GlobalGameJam/DinoFixTheGit/Content/TestLevel.umap'
+[2020.02.01-16.22.59:621][335]AssetCheck: New page: Asset Save: TestLevel
+[2020.02.01-16.22.59:621][335]LogContentValidation: Display: Validating World /Game/TestLevel.TestLevel
+[2020.02.01-16.23.01:283][492]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository
+[2020.02.01-16.23.06:938][492]LogSlate: Window 'Submit Files' being destroyed
+[2020.02.01-16.23.07:200][492]LogSourceControl: commit successful: [develop e32d370] Céu lindo.
+[2020.02.01-16.23.07:244][492]SourceControl: [develop e32d370] Céu lindo.
+[2020.02.01-16.23.07:244][492]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.02.01-16.23.07:244][492]SourceControl:  rewrite DinoFixTheGit/Content/TestLevel.umap (88%)
+[2020.02.01-16.23.07:248][492]SourceControl: Commited [develop e32d370] Céu lindo..
