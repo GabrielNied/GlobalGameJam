@@ -668,3 +668,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.01-15.51.18:377][878]SourceControl: [develop 4dbfaa2] B
 [2020.02.01-15.51.18:377][878]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2020.02.01-15.51.18:383][878]SourceControl: Commited [develop 4dbfaa2] B.
+[2020.02.01-16.06.33:977][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Main" FILE="D:/Design/2020/GlobalGameJam/ReptileRepair/GlobalGameJam/DinoFix/Content/Scenes/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.01-16.06.34:000][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.02.01-16.06.34:017][809]LogSavePackage: Moving 'D:/Design/2020/GlobalGameJam/ReptileRepair/GlobalGameJam/DinoFix/Saved/MainD4B4015048096073F0A4FCB76A630086.tmp' to 'D:/Design/2020/GlobalGameJam/ReptileRepair/GlobalGameJam/DinoFix/Content/Scenes/Main.umap'
+[2020.02.01-16.06.34:047][809]AssetCheck: New page: Asset Save: Main
+[2020.02.01-16.06.34:047][809]LogContentValidation: Display: Validating World /Game/Scenes/Main.Main
