@@ -713,3 +713,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.01-16.22.20:354][473]LogWindows: Warning: CreateProc failed: O sistema não pode encontrar o arquivo especificado. (0x00000002)
 [2020.02.01-16.22.20:354][473]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
 [2020.02.01-16.22.38:980][681]LogSlate: Window 'Source Control Login' being destroyed
+[2020.02.01-16.25.57:281][657]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2020.02.01-16.26.01:037][951]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-16.26.01:057][951]LogAIModule: Creating AISystem for world TestLevel
+[2020.02.01-16.26.01:058][951]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TestLevel.TestLevel
+[2020.02.01-16.26.01:083][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.02.01-16.26.01:085][951]Cmd: MAP LOAD FILE="D:/GlobalGameJam/GlobalGameJam/DinoFixTheGit/Content/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.01-16.26.01:085][951]LightingResults: New page: Lighting Build
+[2020.02.01-16.26.01:086][951]LoadErrors: New page: Loading map: TestLevel.umap
+[2020.02.01-16.26.01:088][951]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.01-16.26.01:088][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.01-16.26.01:088][951]MapCheck: New page: Map Check
+[2020.02.01-16.26.01:088][951]LightingResults: New page: Lighting Build
+[2020.02.01-16.26.01:113][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.01-16.26.01:114][951]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-16.26.01:139][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.02.01-16.26.01:153][951]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-16.26.01:153][951]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.06ms to complete.
+[2020.02.01-16.26.01:153][951]LogFileHelpers: Loading map 'TestLevel' took 0.069
